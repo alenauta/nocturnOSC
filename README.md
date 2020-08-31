@@ -3,6 +3,8 @@ Ableton Live MIDI Remote scripts for interaction between Novation Nocturn and To
 
 <p>This set of script is heavily based on LiveControl by ST8 &lt;st8@q3f.org&gt;<br />My contribution was to add the MIDI functionality to control the underrated Novation Nocturn and fix some bugs.</p>
 
+alenauta - 2020
+
 # Instructions
 
 <ul>
