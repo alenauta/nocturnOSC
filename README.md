@@ -21,6 +21,7 @@ It's comprised of 2 pages:
   <li>the encoders are common to both pages</li>
   <li>on the first page every parameter with a on-off value is also mapped to the corresponding button</li>
   <li>on the second page the buttons control:</li>
+  </ul>
   <ol>
     <li>Device on-off</li>
     <li>Device Lock/Unlock</li>
@@ -31,4 +32,4 @@ It's comprised of 2 pages:
     <li>Bank -</li>
     <li>Bank +</li>
   </ol>
-</ul>
+
