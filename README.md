@@ -1,8 +1,7 @@
 # nocturnOSC
 Ableton Live MIDI Remote scripts for interaction between Novation Nocturn and TouchOSC
 
-This set of script is heavily based on LiveControl by ST8 <st8@q3f.org>
-My contribution was to add the MIDI funcionality to control the underrated Novation Nocturn and fix some bugs.
+<p>This set of script is heavily based on LiveControl by ST8 &lt;st8@q3f.org&gt;<br />My contribution was to add the MIDI functionality to control the underrated Novation Nocturn and fix some bugs.</p>
 
 # Instructions
 
